@@ -7,5 +7,5 @@ But it will not able to understand it so when you upload it any SIEM tool then i
 
 # Screenshots
 
-![image]<img width="406" alt="logs" src="https://user-images.githubusercontent.com/77324478/201254635-48b56c84-43da-44a7-b7bb-d15f58a43345.png">
-![image]<img width="1280" alt="all_genrated_logs" src="https://user-images.githubusercontent.com/77324478/201255871-08806679-3958-4af0-88d4-ad18f15f5e92.png">
+<img width="406" alt="logs" src="https://user-images.githubusercontent.com/77324478/201254635-48b56c84-43da-44a7-b7bb-d15f58a43345.png">
+<img width="1280" alt="all_genrated_logs" src="https://user-images.githubusercontent.com/77324478/201255871-08806679-3958-4af0-88d4-ad18f15f5e92.png">
